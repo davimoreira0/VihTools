@@ -1,0 +1,1 @@
+python3 recursos/ferramenta/MENU\ PRINCIPAL/menuprincipal.py

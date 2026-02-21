@@ -1,0 +1,1 @@
+python3 recursos/Instalação/instalação.py
