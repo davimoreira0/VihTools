@@ -1,6 +1,6 @@
 # VihTools
 VihTools é uma coleção de scripts em Python para automação de tarefas de segurança ofensiva/educacional (reconhecimento, varredura, avaliação e exploração, cracking, análise de tráfego e engenharia social). O launcher principal é o menu da ferramenta.
-
+![Logo do Projeto](./recursos/VihToolsImage.jpg)
 # ⚠️ Aviso Legal (Disclaimer)
 
 O uso deste programa para atacar alvos sem o consentimento prévio e mútuo é ilegal. É de inteira responsabilidade do usuário final obedecer a todas as leis locais, estaduais e federais aplicáveis. O desenvolvedor não assume nenhuma responsabilidade e não é responsável por qualquer uso indevido ou dano causado por este programa. Use apenas em ambientes controlados e autorizados.
