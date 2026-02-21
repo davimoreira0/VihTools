@@ -19,7 +19,6 @@ def menu_principal():
     os.system('clear')
     print(Fore.RED + texto_vihtools + Style.RESET_ALL)
     print(Fore.WHITE + "Versão: 26.1!" + Style.RESET_ALL)
-    print(Fore.WHITE + "Criado por: Davi Moreira Pereira" + Style.RESET_ALL)
     print(Fore.RED + "- GitHub: https://github.com/davimoreira0" + Style.RESET_ALL)
     print(Fore.RED + "- Instagram: https://www.instagram.com/dmoreirap_/" + Style.RESET_ALL)
 
