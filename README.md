@@ -41,7 +41,7 @@ Bash
 # 3. Dê permissão de execução ao script principal
     chmod +x instalação.sh
     chmod +x vihtool.sh
-# 4 Desisntalação
+# 4. Desisntalação
     chmod +x desinstalação.sh
 
 # 💻 Como Usar
@@ -52,4 +52,4 @@ Bash
     sudo bash vihtool.sh
 
 # Desisntalar
-    bash desinstalação.sh
+    sudo bash desinstalação.sh
